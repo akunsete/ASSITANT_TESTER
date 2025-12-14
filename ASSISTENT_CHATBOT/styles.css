@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ContainerJudul {
+    margin-top: 20px;
+}
+
+.Container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#StorageChat {
+    position: relative;
+}
+
+#ContainerChoose {
+    position: absolute;
+    top: 400px;
+    right: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+#Choose1,#Choose2,#Choose3,#Choose4,#Choose5 {
+    cursor: pointer;
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: #4cc9f0;
+    border: none;
+    border-radius: 6px 6px 20px 6px;
+    -webkit-border-radius: 6px 6px 20px 6px;
+    -moz-border-radius: 6px 6px 20px 6px;
+    -ms-border-radius: 6px 6px 20px 6px;
+    -o-border-radius: 6px 6px 20px 6px;
+}
+
+#ChatsBOT {
+    margin-bottom: 20px;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 200px;
+    padding: 6px;
+    color: #FFFFFF;
+    background-color: grey;
+    box-shadow: 0 0 0 black;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+#Buttons {
+    margin-bottom: 20px;
+    position: absolute;
+    top: 90px;
+    left: 5px;
+    width: 200px;
+    padding: 6px;
+    color: #FFFFFF;
+    background-color: #4cc9f0;
+    box-shadow: 0 0 0 black;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;    
+}
