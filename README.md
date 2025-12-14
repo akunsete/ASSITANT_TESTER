@@ -6,9 +6,9 @@ This project was created while I was in 8th grade as part of my learning process
 
 # 🛠️ TECHNOLOGIES
 
-1.HTML – structure of the chatbot interface
-2.CSS – layout and chat bubble styling
-3.JavaScript – logic for interaction, responses, and typing delay
+-HTML – structure of the chatbot interface
+-CSS – layout and chat bubble styling
+-JavaScript – logic for interaction, responses, and typing delay
 
 # ✨ FEATURES
 
